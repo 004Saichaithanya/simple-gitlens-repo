@@ -1,10 +1,3 @@
-Sure — here’s a clean and editable `README.md` file you can include in your repo to explain its purpose, structure, usage, and how to test it with GitLens:
-
----
-
-## 📜 `README.md`
-
-```markdown
 # Simple GitLens Test Repository
 
 ## 📖 Description
@@ -86,12 +79,3 @@ Example:
 ## 📌 License
 
 Open source — feel free to modify and test as needed.
-
-```
-
----
-
-✅ You can directly copy this into your `README.md` — it’s clean, testable, and explains everything your repo does with instructions to edit, commit, and check with GitLens.  
-
-Would you like me to generate a `gitlens_insights.md` sample file too?
-```
